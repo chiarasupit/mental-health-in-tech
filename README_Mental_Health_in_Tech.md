@@ -60,8 +60,8 @@ The study explores how unsupervised learning and feature engineering can be appl
 
 - **Python 3.x**
 - **pandas**, **NumPy**, **scikit-learn**
-- **Matplotlib**, **Seaborn**
-- **Jupyter Notebook**
+- **Matplotlib**, **Yellowbrick**
+- **tabulate**
 
 ---
 
