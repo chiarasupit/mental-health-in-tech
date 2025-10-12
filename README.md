@@ -1,6 +1,6 @@
 # 🧠 Mental Health in Technology-related Jobs
 
-A case study applying unsupervised machine learning techniques — including **k-Means clustering**, **Principal Component Analysis (PCA)**, and **Chi-Square feature selection** — to analyze mental health survey data from professionals in the tech industry.
+A case study applying unsupervised machine learning techniques, including **k-Means clustering**, **Principal Component Analysis (PCA)**, and **Chi-Square feature selection**, to analyze mental health survey data from professionals in the tech industry.
 
 ---
 
