@@ -108,4 +108,4 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 - [OSMI Mental Health in Tech Survey 2016 – Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)  
 - [Scikit-learn Feature Selection Documentation](https://scikit-learn.org/stable/modules/feature_selection.html)  
-- [IEEE Paper: Cluster Quality Analysis Using Silhouette Score](https://doi.org/10.1109/DSAA.2020.00089)
+- [IEEE Paper: Cluster Quality Analysis Using Silhouette Score](https://doi.org/10.1109/DSAA49011.2020.00096)
