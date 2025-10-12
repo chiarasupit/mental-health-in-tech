@@ -71,7 +71,6 @@ The study explores how unsupervised learning and feature engineering can be appl
 mental-health-in-tech/
 │
 ├── data/                 # Dataset (OSMI 2016) or data import script
-├── notebooks/            # Jupyter notebooks for analysis
 ├── scripts/              # Python scripts for data cleaning and modeling
 ├── figures/              # Flowcharts, plots, and PCA visualizations
 ├── results/              # Generated output tables or CSVs
