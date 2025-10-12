@@ -1,0 +1,11 @@
+# Core Data and ML Libraries
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+yellowbrick
+
+# Utility and Display
+tabulate
